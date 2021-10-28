@@ -1,6 +1,11 @@
-## Oiii eu sou o Alef Lobo!
-- 👨‍💻 Estudando Javascript
-- 🎓 ADS 
+<h1 align="center">
+  <img src="https://www.imagensanimadas.com/data/media/81/mao-imagem-animada-0120.gif" width="28">
+ Oiii eu sou o Alef Lobo!
+</h1>
+<h2 align="center">
+  👨‍💻 Estudante de Desenvolvimento Web - Javascript <br>
+  🎓 ADS
+</h2>
 <div align="center">
   <a href="https://github.com/aleflobo-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleflobo-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
